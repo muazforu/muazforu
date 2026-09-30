@@ -32,37 +32,35 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muazforu&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=muazforu&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=muazforu&theme=tokyonight&hide_border=true" height="165" alt="Contribution streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muazforu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
 
-
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muazforu&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub trophies" />
+  <a href="https://github.com/muazforu?tab=achievements">
+    <img src="https://img.shields.io/badge/⚡_Quickdraw-Earned-7c3aed?style=for-the-badge" alt="Quickdraw" />
+    <img src="https://img.shields.io/badge/🎲_YOLO-Earned-58a6ff?style=for-the-badge" alt="YOLO" />
+    <img src="https://img.shields.io/badge/🦈_Pull_Shark-Earned-00d4ff?style=for-the-badge" alt="Pull Shark" />
+  </a>
 </div>
 
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muazforu&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
-</div>
 
 ## 🚀 Featured Project
 
 <div align="center">
-  <a href="https://github.com/muazforu/NanoClip">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muazforu&repo=NanoClip&theme=tokyonight&hide_border=true" alt="NanoClip" />
-  </a>
-</div>
 
-**[NanoClip by Techinfotics](https://github.com/muazforu/NanoClip)** — paste a video link, get viral shorts. Whisper transcription, AI highlight detection (Gemini / OpenAI / Muse), auto-reframe to 9:16, one-click SRT & platform exports. Desktop app + web UI + CLI, open source under MIT.
+### ✂️ [NanoClip by Techinfotics](https://github.com/muazforu/NanoClip)
+
+*Paste a video link, get viral shorts — Whisper transcription, AI highlight detection, auto-reframe to 9:16.*
+
+[![Stars](https://img.shields.io/github/stars/muazforu/NanoClip?style=for-the-badge&logo=github&color=58a6ff)](https://github.com/muazforu/NanoClip/stargazers)
+[![Forks](https://img.shields.io/github/forks/muazforu/NanoClip?style=for-the-badge&logo=github)](https://github.com/muazforu/NanoClip/network/members)
+[![License](https://img.shields.io/github/license/muazforu/NanoClip?style=for-the-badge&color=7c3aed)](https://github.com/muazforu/NanoClip/blob/main/LICENSE)
+
+</div>
 
 ## 🌐 Connect With Me
 
