@@ -41,10 +41,10 @@
 
 <div align="center">
   <a href="https://github.com/muazforu?tab=achievements">
-    <img src="https://img.shields.io/badge/⚡_Quickdraw-Earned-7c3aed?style=for-the-badge" alt="Quickdraw" />
-    <img src="https://img.shields.io/badge/🎲_YOLO-Earned-58a6ff?style=for-the-badge" alt="YOLO" />
-    <img src="https://img.shields.io/badge/🦈_Pull_Shark-Earned-00d4ff?style=for-the-badge" alt="Pull Shark" />
+    <img src="https://img.shields.io/badge/⚡_Quickdraw-Earned-7c3aed?style=for-the-badge" alt="Quickdraw — earned" />
   </a>
+  <br/>
+  <sub>More achievements unlocking as the journey continues 🚀</sub>
 </div>
 
 
