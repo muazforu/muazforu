@@ -47,6 +47,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=muazforu&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub trophies" />
 </div>
 
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muazforu&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
+</div>
+
 ## 🚀 Featured Project
 
 <div align="center">
