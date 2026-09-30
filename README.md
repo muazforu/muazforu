@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/muazforu/muazforu/output/github-snake-dark.svg" alt="Contribution snake eating your contributions" />
 </div>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -65,6 +65,18 @@
 [![Stars](https://img.shields.io/github/stars/muazforu/NanoClip?style=for-the-badge&logo=github&color=58a6ff)](https://github.com/muazforu/NanoClip/stargazers)
 [![Forks](https://img.shields.io/github/forks/muazforu/NanoClip?style=for-the-badge&logo=github)](https://github.com/muazforu/NanoClip/network/members)
 [![License](https://img.shields.io/github/license/muazforu/NanoClip?style=for-the-badge&color=7c3aed)](https://github.com/muazforu/NanoClip/blob/main/LICENSE)
+
+</div>
+
+<div align="center">
+
+### ⌚ [Aura Watch 2026](https://muazforu.github.io/AuraWatch/)
+
+*A cinematic scroll-driven 3D luxury watch experience — pure hand-coded WebGL, PBR shading, bloom, GPU particles. Zero frameworks.*
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-View_Site-c9a45c?style=for-the-badge)](https://muazforu.github.io/AuraWatch/)
+[![Source](https://img.shields.io/badge/GitHub-Source-58a6ff?style=for-the-badge&logo=github)](https://github.com/muazforu/AuraWatch)
+[![Stars](https://img.shields.io/github/stars/muazforu/AuraWatch?style=for-the-badge&logo=github)](https://github.com/muazforu/AuraWatch/stargazers)
 
 </div>
 
