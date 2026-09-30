@@ -40,6 +40,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muazforu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muazforu&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub trophies" />
+</div>
+
 ## 🚀 Featured Project
 
 <div align="center">
