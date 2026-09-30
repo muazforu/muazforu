@@ -48,6 +48,12 @@
 </div>
 
 
+## 🐍 Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/muazforu/muazforu/output/github-snake-dark.svg" alt="Contribution snake eating your contributions" />
+</div>
+
 ## 🚀 Featured Project
 
 <div align="center">
